@@ -20,4 +20,16 @@
 - Quantum Physics **(PH101)** *Prof. Santosh Kumar Das and Prof. Sudipta Kanungo*
 
 ## Autumn Semester
-- 
+i.Software Tools **(CS102)** *Clint Pazhayidam George*    
+ii. Linear Algebra **(MA102)** *Prof. Kalpesh Haria*  
+iii. Introduction to electrodynamics and Magnetism **(PH102)** *Prof. Vaibhav Wasnik*  
+iv. Introduction to Electrical and Electronics Engineering **(EE101)** *Prof. Apeksha Madhukar*   
+
+# Hobbies:
+- I enjoy playing table Tennis and swimming
+- Gaming
+- Music
+- Watching Anime
+- Game Development
+- Coding
+
