@@ -1,0 +1,65 @@
+.about{
+border:2px solid; 
+background-color:#ffa07a;
+}
+
+.name{
+font-weight:bold;
+font-family: 'Times New Roman';
+font-align:left;
+font-size:50px;
+display: inline;
+}
+
+.profpic{
+height:172px;
+width:172px;
+align: right;
+display:inline;
+}
+
+.decription{
+font-family:"Sans Serif";
+font-color: blue;
+}
+
+.table{
+border-spacing:4px;
+background-color:lightblue;
+padding:10px;
+}
+
+.head{
+text-decoration: underline;
+}
+
+.row1{
+text-align:left;
+}
+
+.row2{
+text-align:center;
+}
+
+.autumn{
+background-color: orange;
+border: 3px;
+display: inline-block;
+border-radius: 20%;
+}
+
+.spring{
+background-color:pink;
+border: 3px;
+display: inline-block;
+border-radius: 20%;
+}
+
+.hobbi{
+background-image: url("https://img.freepik.com/free-photo/pink-sky-background-with-crescent-moon_53876-129048.jpg");
+display: inline-block;
+}
+
+body{
+background-image: url("https://img.freepik.com/free-photo/pink-sky-background-with-crescent-moon_53876-129048.jpg");
+}
